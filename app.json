@@ -23,7 +23,7 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router",
+      ["expo-router", {"origin": "https://blog-arjen.vercel.app/"}],
       [
         "expo-splash-screen",
         {
