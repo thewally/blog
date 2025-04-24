@@ -23,7 +23,7 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      ["expo-router", {"origin": "https://blog-arjen.vercel.app/"}],
+      ["expo-router", {"origin": "https://blog-arjen-git-master-arjen-van-der-wals-projects.vercel.app/"}],
       [
         "expo-splash-screen",
         {
