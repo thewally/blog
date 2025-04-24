@@ -1,0 +1,1 @@
+export const ORIGIN = 'https://blog-arjen-git-master-arjen-van-der-wals-projects.vercel.app';
